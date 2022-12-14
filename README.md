@@ -1,1 +1,1 @@
-# Pakh-Pakhali: Birds of Bangladesh:GROUP B: Faculty(Rifat Ahmed Hassan):NAME (Afsana Khandaker Taposhi,Farhana Akbar,Tanjim Salam,Nahiyan Anwar Orko),Pakh-Pakhali which will help to Find desirable birds and to enrich the knowledge on birds.  
+# Pakh-Pakhali: Birds of Bangladesh:GROUP B: Faculty(Rifat Ahmed Hassan):NAME (Afsana Khandaker Taposhi,Farhana Akbar,Tanjim Salam,Nahiyan Anwar Orko),Pakh-Pakhali which will help to manage Bird's database of a farm.  
